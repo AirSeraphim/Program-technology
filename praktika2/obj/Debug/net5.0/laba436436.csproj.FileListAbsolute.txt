@@ -1,0 +1,16 @@
+C:\Users\student\Source\Repos\laba436436\obj\Debug\net5.0\laba436436.csproj.AssemblyReference.cache
+C:\Users\student\Source\Repos\laba436436\obj\Debug\net5.0\laba436436.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Source\Repos\laba436436\obj\Debug\net5.0\laba436436.AssemblyInfoInputs.cache
+C:\Users\student\Source\Repos\laba436436\obj\Debug\net5.0\laba436436.AssemblyInfo.cs
+C:\Users\student\Source\Repos\laba436436\obj\Debug\net5.0\laba436436.csproj.CoreCompileInputs.cache
+C:\Users\student\Source\Repos\laba436436\bin\Debug\net5.0\laba436436.exe
+C:\Users\student\Source\Repos\laba436436\bin\Debug\net5.0\laba436436.deps.json
+C:\Users\student\Source\Repos\laba436436\bin\Debug\net5.0\laba436436.runtimeconfig.json
+C:\Users\student\Source\Repos\laba436436\bin\Debug\net5.0\laba436436.runtimeconfig.dev.json
+C:\Users\student\Source\Repos\laba436436\bin\Debug\net5.0\laba436436.dll
+C:\Users\student\Source\Repos\laba436436\bin\Debug\net5.0\ref\laba436436.dll
+C:\Users\student\Source\Repos\laba436436\bin\Debug\net5.0\laba436436.pdb
+C:\Users\student\Source\Repos\laba436436\obj\Debug\net5.0\laba436436.dll
+C:\Users\student\Source\Repos\laba436436\obj\Debug\net5.0\ref\laba436436.dll
+C:\Users\student\Source\Repos\laba436436\obj\Debug\net5.0\laba436436.pdb
+C:\Users\student\Source\Repos\laba436436\obj\Debug\net5.0\laba436436.genruntimeconfig.cache
